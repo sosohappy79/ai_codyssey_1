@@ -1344,6 +1344,7 @@ Accept-Ranges: bytes
 - VS Code에서 GitHub 계정 로그인 후, 해당 프로젝트 로컬 저장소를 GitHub 원격 저장소(`origin`)와 성공적으로 연결했습니다.
   ```bash
   [명령어]
+  $ git remote add origin https://github.com/sosohappy79/ai-codyssey.git
   $ git remote -v
 
   [출력값]
